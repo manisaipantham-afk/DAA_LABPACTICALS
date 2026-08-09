@@ -146,7 +146,7 @@ Heap-Implementation/
 
 ## 👨‍💻 Author
 
-**Dheeraj Sai Kommuri**
+**Pantham Mani Sai**
 
 B.Tech CSE (AI & ML)  
 Marwadi University
