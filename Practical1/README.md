@@ -191,7 +191,7 @@ By completing this project, you can understand:
 
 ## 👨‍💻 Author
 
-**Dheeraj Sai Kommuri**
+**Pantham Mani Sai**
 
 B.Tech – Computer Science Engineering (AI & ML)
 
