@@ -237,5 +237,5 @@ Searching-Algorithms/
 
 ## 👨‍💻 Author
 
-**Dheeraj Sai Kommuri (CSE AI & ML)**
+**Pantham Mani Sai (CSE AI & ML)**
 
